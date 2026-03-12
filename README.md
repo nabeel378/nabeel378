@@ -21,7 +21,6 @@
 
 ## 🔭 Projects
 
-- **[Waply](#)** – WhatsApp automation platform with an AI chat assistant.  
 - **[EduBliss](#)** – SaaS platform for creating and selling online courses.  
 
 *(Links are placeholders – replace with your project URLs.)*
